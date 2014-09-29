@@ -1,0 +1,174 @@
+[
+    {
+             "name": "Rollin To Go",
+             "style": "Sandwiches"
+    },
+    {
+             "name": "Tomate",
+             "style": "Mexican"
+    },
+    {
+             "name": "D&Ds",
+             "style": "Burgers"
+    },
+    {
+             "name": "Joy Yees",
+             "style": "Asian"
+    },
+    {
+             "name": "Bat 17",
+             "style": "Sandwiches"
+    },
+    {
+             "name": "Edzos",
+             "style": "Burgers"
+    },
+    {        
+            "name": "Cozy",
+            "style": "Asian"
+    },
+    {       
+            "name": "Portillos",
+            "style": "Burgers"
+    },
+    {
+             "name": "Mandarin House",
+             "style": "Asian"
+    },
+    {        
+            "name": "Lisas",
+            "style": "Sandwiches"
+    },
+    {       
+            "name": "Sarpinos",
+            "style": "Italian"
+    },
+    {       
+            "name": "Burger King",
+            "style": "Fast Food"
+    },
+    {       
+            "name": "Lao Sze Chuan",
+            "style": "Asian"
+    },
+    {       
+            "name": "Walker Bros.",
+            "style": "Breakfast"
+    },
+    {       
+            "name": "Delbys Corner",
+            "style": "Breakfast"
+    },
+    {       
+            "name": "Clarks",
+            "style": "American"
+    },
+    {       
+            "name": "Phillys Best",
+            "style": "American"
+    },
+    {       
+            "name": "Le Peep",
+            "style": "Breakfast"
+    },
+    {       
+            "name": "Noodles & Co",
+            "style": "World"
+    },
+    {       
+            "name": "Flat Top Grill",
+            "style": "Asian"
+    },
+    {       
+            "name": "Heckys Barbecue",
+            "style": "American"
+    },
+    {       
+            "name": "Siam Splendour",
+            "style": "Asian"
+    },
+    {       
+            "name": "Jimmy Johns",
+            "style": "Sandwiches"
+    },
+    {       
+            "name": "Chilis",
+            "style": "American"
+    },
+    {          
+            "name": "Potbelly",
+            "style": "Sandwiches"
+    },
+    {       
+            "name": "Symphonys Cafe",
+            "style": "Breakfast"
+    },
+    {       
+            "name": "DMK",
+            "style": "Burgers"
+    },
+    {       
+            "name": "Farmhouse",
+            "style": "American"
+    },
+    {       
+            "name": "Naf Naf",
+            "style": "Mediterranean"
+    },
+    {       
+            "name": "Soulwich",
+            "style": "Sandwiches"
+    },
+    {       
+            "name": "JTs Grill",
+            "style": "American"
+    },
+    {       
+            "name": "Aguas Tortas",
+            "style": "Mexican"
+    },
+    {       
+            "name": "Taco Bell",
+            "style": "Mexican"
+    },
+    {       
+            "name": "Als Deli",
+            "style": "Sandwiches"
+    },
+    {       
+            "name": "Noyes Street Cafe",
+            "style": "American"
+    },
+    {       
+            "name": "LYFE Kitchen",
+            "style": "Vegan"
+    },
+    {       
+            "name": "Mt. Everest",
+            "style": "Indian"
+    },
+    {       
+            "name": "Pret A Manger",
+            "style": "Sandwiches"
+    },
+    {       
+            "name": "Cheesies",
+            "style": "Sandwiches"
+    },
+    {       
+            "name": "Chicken Shack",
+            "style": "American"
+    },
+    {       
+            "name": "Greek Fire Grill",
+            "style": "Mediterranean"
+    },
+    {       
+            "name": "527 Cafe",
+            "style": "Asian"
+    },
+    {       
+            "name": "Todoroki",
+            "style": "Asian"
+    }
+]
